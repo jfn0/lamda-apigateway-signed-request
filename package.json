@@ -1,6 +1,6 @@
 {
   "name": "lamda-apigateway-signed-request",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "small helper to sign api gateway call from lambda",
   "main": "lib/index.js",
   "keywords": [
